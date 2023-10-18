@@ -186,7 +186,7 @@ msgstr ""
 
 #: src/SUMMARY.md:53 src/basic-syntax/variables.md:1
 msgid "Variables"
-msgstr ""
+msgstr "變數"
 
 #: src/SUMMARY.md:54 src/basic-syntax/type-inference.md:1
 msgid "Type Inference"
@@ -3779,13 +3779,13 @@ msgstr ""
 msgid ""
 "Rust provides type safety via static typing. Variable bindings are immutable "
 "by default:"
-msgstr ""
+msgstr "Rust透過靜態型別來提供型別安全性。變數綁定後預設是不可變的："
 
 #: src/basic-syntax/variables.md:18
 msgid ""
 "Due to type inference the `i32` is optional. We will gradually show the "
 "types less and less as the course progresses."
-msgstr ""
+msgstr "由於型別推論，`i32`是可以不標注的，我們將會隨著課程進度慢慢的省略標注型別。"
 
 #: src/basic-syntax/type-inference.md:3
 msgid "Rust will look at how the variable is _used_ to determine the type:"
